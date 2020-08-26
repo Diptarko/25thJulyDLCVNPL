@@ -1,0 +1,18 @@
+
+O/P Progranm 1: 
+>>> ================================ RESTART ================================
+>>> 
+Enter num1: >5
+Enter num2: >0
+Sorry, you cant divide by Zero.
+
+>>> ================================ RESTART ================================
+>>>O/P Program 2
+Americans  play Baseball.
+Americans  play Cricket.
+Americans  watch Baseball.
+Americans  watch Cricket.
+Indians play Baseball.
+Indians play Cricket.
+Indians watch Baseball.
+Indians watch Cricket.
